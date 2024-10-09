@@ -43,4 +43,4 @@ if st.button('Predict Final Position'):
     confidence = prediction_proba[0, predicted_class]
 
     # Show prediction and confidence
-    st.write(f'The predicted final position is: {predicted_class[0]} with a confidence of {confidence[0]:.2f}')
+    st.write(f'The predicted final position is: {predicted_class[0]}')
