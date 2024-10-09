@@ -30,7 +30,7 @@ The model is deployed using Streamlit, allowing users to input race details and 
 	4.	Feature Engineering: Add new features like performance trends and track-specific data for better predictions.
 	5.	Time-Series Analysis: Incorporate time-series data to model race position evolution and predict outcomes more accurately.
 
-## Dataset Used : https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
-## Try Model here : 
+##### Dataset Used : https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
+ 
 
  
