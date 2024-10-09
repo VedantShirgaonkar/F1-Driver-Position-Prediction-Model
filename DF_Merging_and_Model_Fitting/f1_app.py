@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load the trained model pipeline
-pipeline = joblib.load('f1_pipeline.pkl')
+pipeline = joblib.load('/Users/rahul/Desktop/F1 Project/DF_Merging_and_Model_Fitting/f1_pipeline.pkl')
 
 # Streamlit App Interface
 st.title("F1 Driver Position Prediction")
